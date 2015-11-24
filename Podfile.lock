@@ -1,0 +1,49 @@
+PODS:
+  - ALAssetsLibrary-CustomPhotoAlbum (1.3.1)
+  - CXAlertView (1.1.0)
+  - EDSemver (0.3.0)
+  - JRSwizzle (1.0)
+  - MBProgressHUD (0.9.1)
+  - PEPhotoCropEditor (1.3.1)
+  - SevenSwitch (1.4.0)
+  - SSZipArchive (0.3.3)
+  - SwipeBack (1.1.0)
+  - SwipeView (1.3.2)
+  - SYNFadingLabel (0.1.2)
+  - VIPhotoView (0.1)
+  - WYPopoverController (0.3.8)
+  - ZipKit (1.0.3)
+
+DEPENDENCIES:
+  - ALAssetsLibrary-CustomPhotoAlbum
+  - CXAlertView
+  - EDSemver
+  - JRSwizzle
+  - MBProgressHUD
+  - PEPhotoCropEditor
+  - SevenSwitch (= 1.4.0)
+  - SSZipArchive (= 0.3.3)
+  - SwipeBack
+  - SwipeView
+  - SYNFadingLabel
+  - VIPhotoView
+  - WYPopoverController
+  - ZipKit (~> 1.0.3)
+
+SPEC CHECKSUMS:
+  ALAssetsLibrary-CustomPhotoAlbum: 299ea3f58e988b453b19c595859354e562814c93
+  CXAlertView: 7387ca9af81796ab22d26ff2fc3cfcb082f3ee09
+  EDSemver: 124a90685873628ec30f42504b461a1a61757568
+  JRSwizzle: dd5ead5d913a0f29e7f558200165849f006bb1e3
+  MBProgressHUD: c47f2c166c126cf2ce36498d80f33e754d4e93ad
+  PEPhotoCropEditor: 613292fce009efd085e7aed975f1ebb3fec8bb7b
+  SevenSwitch: e992e56e2e7f401eb00538b9fa92bf848bacbe27
+  SSZipArchive: 2cf2a6d3ac9f03252b7d96f93728b9b983be9afb
+  SwipeBack: 45a42c333b7b9657b9f02cf19673339b3a006195
+  SwipeView: bd67cfaf7760c036438446b3ccb28a3b84fce009
+  SYNFadingLabel: ab90f51c494f37bc1a72c863228803eb9bce5d25
+  VIPhotoView: bdc0cf8ddadda754b451869bd3a919e8eb5c11ab
+  WYPopoverController: dda54780e1bef186464ae5a10ab9b4998c279e89
+  ZipKit: 594735e7ad2fd3ee7349759681a0423a1b296572
+
+COCOAPODS: 0.39.0
